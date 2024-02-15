@@ -29,6 +29,8 @@
 //emits
 const emit = defineEmits(['selected'])
 
+
+
 // props
 const props = defineProps(['isSelectedPack'])
 
